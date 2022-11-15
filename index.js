@@ -7,7 +7,7 @@ const propertiesDetail = require('./data/properties/detail.json');
 const propertiesList = require('./data/properties/list.json');
 
 
-app.get("./",(req,res)=>{
+app.get("/",(req,res)=>{
     res.send("welcome to the Real Estate Api made by Prajapati omkar")
 })
 
