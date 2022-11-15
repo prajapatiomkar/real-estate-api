@@ -1,5 +1,9 @@
 const express = require('express')
+const cors = require('cors')
 const app = express()
+app.use(cors({
+    origin:"*",
+}))
 const autoComplete = require('./data/auto-complete.json');
 const agenciesList = require('./data/agencies/list.json');
 const agenciesGetListing = require('./data/agencies/get-listing.json');
