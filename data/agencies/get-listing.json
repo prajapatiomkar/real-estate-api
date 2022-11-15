@@ -1,0 +1,212 @@
+{
+    "hits": [
+      {
+        "id": 3806335,
+        "ownerID": 1141804,
+        "state": "active",
+        "geography": {
+          "lat": 25.041822,
+          "lng": 55.287713
+        },
+        "purpose": "for-sale",
+        "price": 4526600,
+        "product": "free",
+        "productLabel": "default",
+        "rentFrequency": null,
+        "referenceNumber": "1035-Cpt-S-27202",
+        "permitNumber": "1519315456",
+        "projectNumber": null,
+        "title": "Clinic Space for Sale with Super Easy Payment Plan",
+        "title_l1": "عقارات تجارية اخرى في ركان دبي لاند 4526600 درهم - 6477278",
+        "externalID": "6477278",
+        "slug": "clinic-space-for-sale-with-super-easy-payment-plan-6477278",
+        "slug_l1": "clinic-space-for-sale-with-super-easy-payment-plan-6477278",
+        "location": [
+          {
+            "id": 1,
+            "level": 0,
+            "externalID": "5001",
+            "name": "UAE",
+            "name_l1": "الإمارات",
+            "name_l2": "UAE",
+            "slug": "/uae",
+            "slug_l1": "/uae",
+            "slug_l2": "/uae"
+          },
+          {
+            "id": 2,
+            "level": 1,
+            "externalID": "5002",
+            "name": "Dubai",
+            "name_l1": "دبي",
+            "name_l2": "Dubai",
+            "slug": "/dubai",
+            "slug_l1": "/dubai",
+            "slug_l2": "/dubai"
+          },
+          {
+            "id": 51,
+            "level": 2,
+            "externalID": "5746",
+            "name": "Dubailand",
+            "name_l1": "دبي لاند",
+            "name_l2": "Dubailand",
+            "slug": "/dubai/dubailand",
+            "slug_l1": "/dubai/dubailand",
+            "slug_l2": "/dubai/dubailand",
+            "type": "neighbourhood"
+          },
+          {
+            "id": 5204,
+            "level": 3,
+            "externalID": "11481",
+            "name": "Rukan",
+            "name_l1": "ركان",
+            "name_l2": "Rukan",
+            "slug": "/dubai/dubailand/rukan",
+            "slug_l1": "/dubai/dubailand/rukan",
+            "slug_l2": "/dubai/dubailand/rukan",
+            "type": "neighbourhood"
+          }
+        ],
+        "category": [
+          {
+            "id": 3,
+            "level": 0,
+            "externalID": "2",
+            "name": "Commercial",
+            "name_l1": "تجاري",
+            "name_l2": "Commercial",
+            "slug": "commercial",
+            "slug_l1": "commercial",
+            "slug_l2": "commercial",
+            "nameSingular": "Commercial",
+            "nameSingular_l1": "تجاري",
+            "nameSingular_l2": "Commercial"
+          },
+          {
+            "id": 25,
+            "level": 1,
+            "externalID": "11",
+            "name": "Other Commercial",
+            "name_l1": "عقارات تجارية أخرى",
+            "name_l2": "Other Commercial",
+            "slug": "commerical-properties",
+            "slug_l1": "commerical-properties",
+            "slug_l2": "commerical-properties",
+            "nameSingular": "Other Commercial",
+            "nameSingular_l1": "Other Commercial",
+            "nameSingular_l2": "Other Commercial"
+          }
+        ],
+        "createdAt": 1666963386,
+        "updatedAt": 1668514795,
+        "reactivatedAt": 1666963386,
+        "rooms": 0,
+        "baths": 0,
+        "area": 323.48838528,
+        "coverPhoto": {
+          "id": 293150445,
+          "externalID": "132753718",
+          "title": null,
+          "orderIndex": 0,
+          "nimaScore": 5.999659302472676,
+          "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/293150445/50be56173ad9484f815f24cf9e8d8c2d",
+          "main": true
+        },
+        "photoCount": 7,
+        "videoCount": 0,
+        "panoramaCount": 0,
+        "phoneNumber": {
+          "mobile": "+971521829669",
+          "phone": "+97143682287",
+          "whatsapp": "971545695868",
+          "proxyMobile": "+971521045379",
+          "proxyPhone": "+97142451759",
+          "phoneNumbers": [
+            "+97143682287"
+          ],
+          "mobileNumbers": [
+            "+971521829669"
+          ]
+        },
+        "contactName": "Majid Akbar",
+        "agency": {
+          "id": 40,
+          "objectID": 40,
+          "name": "Patriot Real Estate",
+          "name_l1": "باتريوت للوساطة العقارية",
+          "name_l2": "Patriot Real Estate",
+          "externalID": "7737",
+          "product": "premium",
+          "productScore": 2,
+          "licenses": [
+            {
+              "number": "766741",
+              "authority": "DED"
+            },
+            {
+              "number": "17286",
+              "authority": "RERA"
+            }
+          ],
+          "logo": {
+            "id": 27679879,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/27679879/c7094e7e2f2c43a6a2f1c1bd65856171"
+          },
+          "slug": "patriot-real-estate-7737",
+          "slug_l1": "patriot-real-estate-7737",
+          "slug_l2": "patriot-real-estate-7737",
+          "tr": 1,
+          "roles": [],
+          "active": true,
+          "createdAt": "2017-12-14T16:27:46.391811+00:00",
+          "commercialNumber": null,
+          "shortNumber": null
+        },
+        "isVerified": false,
+        "verification": {
+          "updatedAt": 1666963423.762171,
+          "eligible": false,
+          "status": "unverified",
+          "verifiedAt": null
+        },
+        "completionStatus": "under-construction",
+        "floorPlanID": null,
+        "furnishingStatus": null,
+        "extraFields": {},
+        "hasMatchingFloorPlans": false,
+        "photoIDs": [
+          293150445,
+          293150446,
+          293150447,
+          293150448,
+          293150449,
+          293150450,
+          293150451
+        ],
+        "hidePrice": false,
+        "objectID": "3806335"
+      }
+    ],
+    "nbHits": 1,
+    "page": 0,
+    "nbPages": 1,
+    "hitsPerPage": 25,
+    "exhaustiveNbHits": true,
+    "exhaustive": {
+      "nbHits": true
+    },
+    "query": "",
+    "params": "filters=agency.slug:\"patriot-real-estate-7737\" AND category.slug:\"commerical-properties\" &hitsPerPage=25&page=0&query=&optionalWords=&facets=[]&maxValuesPerFacet=10&attributesToHighlight=[]&attributesToRetrieve=[\"name\",\"logo\",\"agentsCount\",\"locations\",\"stats\",\"user_langs\",\"specialities\",\"user_image_id\",\"about_user\",\"rent_count\",\"sale_count\",\"agency\",\"service_areas\",\"agency\",\"area\",\"baths\",\"category\",\"contactName\",\"externalID\",\"id\",\"location\",\"objectID\",\"phoneNumber\",\"coverPhoto\",\"photoCount\",\"price\",\"product\",\"productLabel\",\"purpose\",\"geography\",\"permitNumber\",\"referenceNumber\",\"rentFrequency\",\"rooms\",\"slug\",\"slug_l1\",\"title\",\"title_l1\",\"createdAt\",\"updatedAt\",\"ownerID\",\"isVerified\",\"propertyTour\",\"verification\",\"completionStatus\",\"furnishingStatus\",\"-agency.tier\",\"requiresLogin\",\"coverVideo\",\"videoCount\",\"description\",\"description_l1\",\"floorPlanID\",\"panoramaCount\",\"hasMatchingFloorPlans\",\"state\",\"photoIDs\",\"reactivatedAt\",\"hidePrice\",\"extraFields\",\"projectNumber\"]&numericFilters=",
+    "processingTimeMS": 2,
+    "processingTimingsMS": {
+      "getIdx": {
+        "load": {
+          "total": 1
+        },
+        "total": 1
+      },
+      "total": 2
+    }
+  }
